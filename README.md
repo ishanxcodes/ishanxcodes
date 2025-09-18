@@ -60,16 +60,3 @@ const Ishan = {
 
 
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/codewithganeshhh/codewithganeshhh/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/codewithganeshhh/count.svg?" />
-</div>
-
-###
